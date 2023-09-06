@@ -16,11 +16,11 @@
 </ul>
 <h2>Example: Connecting Assistx With HuggingFace GPT Model</h2>
 <p>Add This To Env File : <code>API="https://api-inference.huggingface.co/models/microsoft/DialoGPT-medium"</code></p>
-<p>Add Huggingface Access Token In The Key Field : <code>Key="xxxxxxxxxx"</code></p>
+<p>Add Huggingface Access Token In The Key Field : <code>Key="XXXXXXXXXXXX"</code></p>
 <p>Example: <code>AssistX --connect "How Are You"</code></p>
 <p>Output: <code>Model: I'm Find Thank You </code></p>
 
-<p><strong>Note:</strong> Note That The CLI Tool Requires A Key To Connect With Huggingface Models You Can Provide It in The Key Filed In The env File.</p>
+<p><strong>Note:</strong> Note That The CLI Tool Requires A Key To Connect With Huggingface Models You Can Provide It in The Key Feild In The env File.</p>
 
 </body>
 </html>
