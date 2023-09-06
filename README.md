@@ -1,7 +1,6 @@
-
 <h1>Assist-CLI</h1>
 <h2>Overview</h2>
-<p>Assist-CLI is a command-line tool that enables seamless communication with models and other LLM through the command-line interface. It simplifies interactions and enhances efficiency.</p>
+<p>Assist-CLI is a command-line tool that enables seamless communication with API's through the command-line interface. It simplifies interactions and enhances efficiency.</p>
 
 <h2>How to Use</h2>
 <p>Usage: <code>AssistX [OPTIONS] [INPUT]</code></p>
@@ -10,15 +9,14 @@
 <h3>Options:</h3>
 <ul>
     <li><code>-h, --help</code>: Display help</li>
-    <li><code>-?, --model</code>: Uses Model</li>
+    <li><code>-?, --connect</code>: Sends Request To API</li>
     <li><code>--setup</code>: Setup the environment</li>
-    <li><code>--update</code>: Check for updates</li>
     <li><code>--uninstall</code>: Uninstall Assist-CLI</li>
-    <li><code>--version</code>: Check current version</li>
-    <li><code>--about</code>: Learn more about Assist-CLI</li>
+    <li><code>--version</code>: Check Version</li>
+    <li><code>--about</code>: About Assist-CLI</li>
 </ul>
 
-<p><strong>Note:</strong> Note That The CLI Tool Can Be Used For Other Uses As Will, Depending On The API You Provide.</p>
+<p><strong>Note:</strong> Note That The CLI Tool Requires A Header To Work.</p>
 
 </body>
 </html>
